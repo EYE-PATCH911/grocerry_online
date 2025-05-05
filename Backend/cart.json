@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Tomato",
+    "price": 50,
+    "image": "images/tomato.jpg"
+  },
+  {
+    "name": "Rice",
+    "price": 70,
+    "image": "images/rice.jpg"
+  },
+  {
+    "name": "Rice",
+    "price": 70,
+    "image": "images/rice.jpg"
+  },
+  {
+    "name": "Rice",
+    "price": 70,
+    "image": "images/rice.jpg"
+  },
+  {
+    "name": "Rice",
+    "price": 70,
+    "image": "images/rice.jpg"
+  },
+  {
+    "name": "Rice",
+    "price": 70,
+    "image": "images/rice.jpg"
+  }
+]
